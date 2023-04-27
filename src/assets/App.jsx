@@ -27,7 +27,7 @@ export function App() {
       <TwitterFollowCard
         userName="don_ramon"
         name="Don Ramon"
-        name2="Don_Ramon2023"
+        name2="Don_Ramoncito2023"
       />
     </>
   );
