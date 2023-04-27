@@ -8,6 +8,7 @@ export function App() {
       <TwitterFollowCard userName="mujer.jpg.jpg" name="Patricia Aburto" name2="Paty-Porn" />
       <TwitterFollowCard userName="MisHijas.jpg" name="Hijas" name2="Bendiciones" />
       <TwitterFollowCard userName="MarioZamora.jpg" name="Mario" name2="Cherokeexxx" />
+      <TwitterFollowCard userName="don_ramon" name="Don Ramon" name2="Don_Ramon2023" />
     </>
   );
 }
